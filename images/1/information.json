@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "name": "Pitsy 2",
+    "description": "A picture of pitsy"
+  },
+  "price": {
+    "value": 4,
+    "currency": "USD"
+  }
+}
